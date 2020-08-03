@@ -1,4 +1,4 @@
-### rmotr.com
-# Data Science with Python Course
 
-This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)# BIKE_SALES_PROJECT_2020
+# Data Exploration and Visualization with python Project
+
+# BIKE_SALES_PROJECT_2020
